@@ -1,0 +1,58 @@
+.nav-pills > li:hover > a,
+.nav-pills > li:focus > a{
+	background: #333333;
+	color: #ffffff;
+}
+
+.nav-pills > li > a.active,
+.nav-pills > li > a.active:focus,
+.nav-pills > li > a.active:hover{
+	background: #4babb1;
+	color: #ffffff;
+}
+
+.icon_wrap:hover,
+.icon-wrapper:hover i,
+.grd1 {
+    color: #ffffff !important;
+    background: #2d3032;
+}
+
+.stat-wrap,
+.dmtop:hover,
+.cac:hover,
+.features-right li:hover i,
+.features-left li:hover i,
+.divider-bar,
+.owl-next:hover i,
+.owl-prev:hover i,
+.icon-wrapper:hover i:hover,
+.grd1:hover,
+.grd1:focus {
+    background-position: 100px;
+    color: #ffffff !important;
+    background: #eea412;
+}
+
+.stat-wrap .alignleft {
+    margin-right: 30px;
+}
+
+.icon_wrap,
+.header_style_01 {
+    background: #ffffff !important;
+    position: relative;
+}
+
+.icon_wrap i,
+.customwidget li i{
+    color: #2d3032 !important;
+}
+
+.icon_wrap {
+    font-size: 62px;
+}
+
+.stat-wrap h3 {
+    color: #ffffff !important;
+}
